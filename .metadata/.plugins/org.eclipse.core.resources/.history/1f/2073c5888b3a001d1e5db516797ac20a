@@ -1,0 +1,8 @@
+package com.promineo.jeep.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class DefaultJeepSalesService implements JeepSalesService {
+
+}
