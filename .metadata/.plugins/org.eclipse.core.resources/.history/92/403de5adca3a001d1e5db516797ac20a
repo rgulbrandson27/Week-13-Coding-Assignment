@@ -1,9 +1,0 @@
-package com.promineotech.jeep.controller.support;
-
-import org.springframework.boot.web.server.LocalServerPort;
-
-@SuppressWarnings("deprecation")
-public class BaseTest {
-	@LocalServerPort
-	private int serverPort;
-}

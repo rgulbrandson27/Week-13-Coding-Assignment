@@ -1,0 +1,9 @@
+package com.promineotech.jeep.dao;
+
+public class DefaultJeepSaleDao implements JeepSalesDao {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
